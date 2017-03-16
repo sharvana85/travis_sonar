@@ -1,2 +1,1 @@
-# travis_sonar
-Integrate Travis and Sonar in Java
+Travis and Sonar Integration Sample
